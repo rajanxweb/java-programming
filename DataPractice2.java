@@ -1,5 +1,5 @@
 public class DataPractice2 {
-    public static void main(String[] args){
+    public static void main(String9[] args){
 
         double d = 99.99;
         int i = (int) d;
